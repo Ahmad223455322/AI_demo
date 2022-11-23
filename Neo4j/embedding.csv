@@ -1,0 +1,6 @@
+sensor_id,mät_värde_1,name,zon,room,embedding_0,embedding_1,embedding_2,embedding_3,embedding_4,embedding_5,embedding_6,embedding_7,embedding_8,embedding_9,embedding_10,embedding_11,embedding_12,embedding_13,embedding_14
+A81758fffe075b67,"(temperatur,luftfuktighet,vattenläckage,vdd)",sensor_1,1,Stora_Kontoret,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+A81758fffe075b66,"(temperatur,luftfuktighet,vattenläckage,vdd)",sensor_2,1,K1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+A81758fffe075c91,"(temperatur,luftfuktighet,vattenläckage,vdd)",sensor_3,1,K3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+A81758fffe075b65,"(temperatur,luftfuktighet,vattenläckage,vdd)",sensor_4,2,Stora_Kontoret,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+A81758fffe034f66,"(temperatur,luftfuktighet,rörlse,ljus)",sensor_5,2,K2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
