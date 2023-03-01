@@ -4,7 +4,7 @@ from datetime import datetime
 
 host = "mongodb://localhost"
 port = 27017
-db = "test_vecka_2"
+db = "20221114"
 collection = "sensordata"
 
 def _connect_mongo(host, port, db):
